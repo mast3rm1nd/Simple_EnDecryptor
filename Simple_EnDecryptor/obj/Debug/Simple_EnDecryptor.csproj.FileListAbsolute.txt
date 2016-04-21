@@ -1,0 +1,14 @@
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\bin\Debug\Simple (EnDe)cryptor.exe.config
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\bin\Debug\Simple (EnDe)cryptor.exe
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\bin\Debug\Simple (EnDe)cryptor.pdb
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple (EnDe)cryptor_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple (EnDe)cryptor.g.resources
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple_EnDecryptor.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple_EnDecryptor.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple (EnDe)cryptor.exe
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple (EnDe)cryptor.pdb
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple (EnDe)cryptor_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\Simple_EnDecryptor\Simple_EnDecryptor\obj\Debug\Simple_EnDecryptor.csprojResolveAssemblyReference.cache
